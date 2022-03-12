@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @R4ND0MDUD3
 - 👀 I’m interested in Coding in Java
 - 🌱 I’m currently learning Database Administration and SQL
-- 💞️ I’m looking to collaborate on Programming Robots in Java
+- 💞️ I’m looking to collaborate on things
 - 📫 How to reach me is secret
 
 <!---
